@@ -1,2 +1,2 @@
 # app-simples-3
-aplicação simples para empresa de serviços de limpeza.
+aplicação simples em Python para empresa de serviços de limpeza.
